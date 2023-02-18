@@ -27,32 +27,33 @@
 
 **[⬆ Back to Index](#index)**
 ### Image Manipulation
-API | Description | Auth | HTTPS | CORS |
-|---|---|---|---|---|
-| [Scribble Diffusion](https://scribblediffusion.com/) | Turn your rough sketch into a refined image using AI | `apiKey` | Yes | Unknown |
-| [Art Institute of Chicago](https://api.artic.edu/docs/) | Art | No | Yes | Yes |
-| [Colormind](http://colormind.io/api-access/) | Color scheme generator | No | No | Unknown |
+API | Description | Pricing |
+|---|---|---|
+| [Scribble Diffusion](https://scribblediffusion.com/) | Turn your rough sketch into a refined image using AI | Free |
+| [Art Institute of Chicago](https://api.artic.edu/docs/) | Art | Free |
+| [Colormind](http://colormind.io/api-access/) | Color scheme generator | Free |
 
 
 **[⬆ Back to Index](#index)**
 ### Logo
 API | Description | Pricing |
-|---|---|---|---|---|
+|---|---|---|
 
 
 
 **[⬆ Back to Index](#index)**
 ### Music Manipulation
 API | Description | Pricing | 
-|---|---|---|---|---|
+|---|---|---|
 | [AiVocalRemover](https://aivocalremover.com/) | Remove Vocals from Songs, Extract Instrumentals for Karaoke! | Free | 
 | [Msvep](https://mvsep.com/) | Online music/voice separator based on neural nets | Free |
 | [Vocalremover.org](https://vocalremover.org) | Vocal Remover and Isolation | Free |
 
+
 **[⬆ Back to Index](#index)**
 ### Personal Assistant
 API | Description | Pricing | 
-|---|---|---|---|---|
+|---|---|---|
 | [ChatGpt](https://chat.openai.com/chat) | ChatGPT is a transformer-based neural network that provides answers and data with human writing patterns | Free | 
 
 
