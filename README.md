@@ -1,7 +1,7 @@
 # Fun-AI-Websites
 
 <div align="center">
-    <h1>Public APIs</h1>
+    <h1>Fun AI Websites & Tools</h1>
     <i>A collective list of Fun AI Websites</i>
 </div>
 
@@ -22,7 +22,7 @@
 * [Image Manipulation](#image-manipuation)
 * [Logo](#logo)
 * [Music Manipulation](#music-manipuation)
-* [Personal Assistant](#personal)
+* [Personal Assistant](#personal-assistant)
 
 
 **[⬆ Back to Index](#index)**
@@ -35,29 +35,26 @@ API | Description | Auth | HTTPS | CORS |
 
 
 **[⬆ Back to Index](#index)**
-### Art & Design
-API | Description | Auth | HTTPS | CORS |
+### Logo
+API | Description | Pricing |
 |---|---|---|---|---|
-| [Améthyste](https://api.amethyste.moe/) | Generate images for Discord users | `apiKey` | Yes | Unknown |
-| [Art Institute of Chicago](https://api.artic.edu/docs/) | Art | No | Yes | Yes |
-| [Colormind](http://colormind.io/api-access/) | Color scheme generator | No | No | Unknown |
+
 
 
 **[⬆ Back to Index](#index)**
-### Development
-API | Description | Auth | HTTPS | CORS |
+### Music Manipulation
+API | Description | Pricing | 
 |---|---|---|---|---|
-| [24 Pull Requests](https://24pullrequests.com/api) | Project to promote open source collaboration during December | No | Yes | Yes |
-| [Abstract Screenshot](https://www.abstractapi.com/website-screenshot-api) | Take programmatic screenshots of web pages from any website | `apiKey` | Yes | Yes |
+| [AiVocalRemover](https://aivocalremover.com/) | Remove Vocals from Songs, Extract Instrumentals for Karaoke! | Free | 
+| [Msvep](https://mvsep.com/) | Online music/voice separator based on neural nets | Free |
+| [Vocalremover.org](https://vocalremover.org) | Vocal Remover and Isolation | Free |
 
 **[⬆ Back to Index](#index)**
-### Government
-API | Description | Auth | HTTPS | CORS |
+### Personal Assistant
+API | Description | Pricing | 
 |---|---|---|---|---|
-| [Bank Negara Malaysia Open Data](https://apikijangportal.bnm.gov.my/) | Malaysia Central Bank Open Data | No | Yes | Unknown |
-| [BCLaws](https://www.bclaws.gov.bc.ca/civix/template/complete/api/index.html) | Access to the laws of British Columbia | No | No | Unknown |
-| [Brazil](https://brasilapi.com.br/) | Community driven API for Brazil Public Data | No | Yes | Yes |
-| [Brazil Central Bank Open Data](https://dadosabertos.bcb.gov.br/) | Brazil Central Bank Open Data | No | Yes | Unknown |
+| [ChatGpt](https://chat.openai.com/chat) | ChatGPT is a transformer-based neural network that provides answers and data with human writing patterns | Free | 
+
 
 
 **[⬆ Back to Index](#index)**
