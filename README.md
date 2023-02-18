@@ -18,12 +18,14 @@
 ---
 
 <br />
-
+    <br />
+    <a href="https://github.com/oluwabajio/Fun-AI-Websites#index">
+    
 * [Image Manipulation](#image-manipuation)
 * [Logo](#logo)
 * [Music Manipulation](#music-manipuation)
 * [Personal Assistant](#personal-assistant)
-
+    <br />
 
 **[⬆ Back to Index](#index)**
 ### Image Manipulation
@@ -33,13 +35,14 @@ API | Description | Pricing |
 | [Art Institute of Chicago](https://api.artic.edu/docs/) | Art | Free |
 | [Colormind](http://colormind.io/api-access/) | Color scheme generator | Free |
 
-
+    <br />
+    
 **[⬆ Back to Index](#index)**
 ### Logo
 API | Description | Pricing |
 |---|---|---|
 
-
+    <br />
 
 **[⬆ Back to Index](#index)**
 ### Music Manipulation
@@ -49,6 +52,7 @@ API | Description | Pricing |
 | [Msvep](https://mvsep.com/) | Online music/voice separator based on neural nets | Free |
 | [Vocalremover.org](https://vocalremover.org) | Vocal Remover and Isolation | Free |
 
+        <br />
 
 **[⬆ Back to Index](#index)**
 ### Personal Assistant
