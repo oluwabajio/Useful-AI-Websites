@@ -25,6 +25,7 @@
 * [Music Manipulation](#music-manipuation)
 * [Personal Assistant](#personal-assistant)
 * [Text Generation & Copywriting](#text)
+* [Video Editing & Generation](#video)
     <br />
 
 **[⬆ Back to Index](#index)**
@@ -76,6 +77,20 @@ API | Description | Pricing |
 | [Wordtune](https://www.wordtune.com/) | Improve Your Writing Skills. | Freemium | 
 | [Compose.ai](https://www.compose.ai/) | Automate Your Writing | Freemium | 
 | [Rytr](https://rytr.me/) |  Ai Writing Assistant That Helps You Create High-quality Content | Freemium | 
+
+        
+
+**[⬆ Back to Index](#index)**
+### Video
+API | Description | Pricing | 
+|---|---|---|
+| [Tavus](https://www.tavus.io/) | The Most Advanced AI Video Personalization Platform | Premium | 
+| [Synthesia](https://www.synthesia.io/) | Create videos from plain text in minutes. | Freemium | 
+| [Hour One](https://hourone.ai/) | Make AI Videos To Train Anyone or Explain Anything | Freemium | 
+| [Rephrase.ai](https://rephrase.ai/) | Convert your text into highly engaging videos within minutes | Freemium | 
+| [Elai](https://elai.io/) | Create AI videos from just text. | Freemium | 
+| [Runway](https://runwayml.com/) |  AI Magic Tools, real-time video editing, collaboration. | Freemium | 
+
 
 
 
