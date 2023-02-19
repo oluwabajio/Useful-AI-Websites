@@ -94,6 +94,7 @@ Website | Description | Pricing |
 ### Video
 Website | Description | Pricing | 
 |---|---|---|
+| [Fliki](https://fliki.ai/) |  Turn text into videos with AI voices. | Freemium | 
 | [Tavus](https://www.tavus.io/) | The Most Advanced AI Video Personalization Platform | Premium | 
 | [Synthesia](https://www.synthesia.io/) | Create videos from plain text in minutes. | Freemium | 
 | [Hour One](https://hourone.ai/) | Make AI Videos To Train Anyone or Explain Anything | Freemium | 
