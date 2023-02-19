@@ -1,7 +1,6 @@
-# Fun-AI-Websites
 
 <div align="center">
-    <h1>Fun AI Websites & Tools</h1>
+    <h1>Useful AI Websites & Tools</h1>
     <i>A collective list of Fun AI Websites</i>
 </div>
 
@@ -33,8 +32,11 @@
 API | Description | Pricing |
 |---|---|---|
 | [Scribble Diffusion](https://scribblediffusion.com/) | Turn your rough sketch into a refined image using AI | Free |
-| [Art Institute of Chicago](https://api.artic.edu/docs/) | Art | Free |
-| [Colormind](http://colormind.io/api-access/) | Color scheme generator | Free |
+| [Stability ai (Stable Diffusion) ](https://stability.ai/) | Generate detailed images based on text descriptions | Free |
+| [Craiyon](https://www.craiyon.com/) | AI Image Generator that draws images from text prompts | Free |
+| [Lexica ai](https://lexica.art/) | Search and Generate Ai Images based on texts | Free |
+| [Playground ai](https://playgroundai.com/) | Playground AI is a free-to-use online AI image creator. Use it to create art, social media posts. | Free |
+| [Hotpot](https://hotpot.ai/art-generator) | Turn imagination into art. | Free |
 
 
     
