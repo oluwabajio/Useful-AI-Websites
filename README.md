@@ -14,13 +14,13 @@
 
 ## Index    
 * [Code Generation](#code-generation)
-* [Image Manipulation](#image-manipuation)
+* [Image Manipulation](#image-manipulation)
 * [Logo](#logo)
 * [Music Manipulation](#music-manipuation)
-* [Name Generators](#name)
+* [Name Generators](#name-generators)
 * [Personal Assistant](#personal-assistant)
 * [Text Generation & Copywriting](#text)
-* [Video Editing & Generation](#video)
+* [Video Editing & Generation](#video-editing--Generation)
     <br />
 
 
@@ -87,7 +87,7 @@ Website | Description | Pricing |
         
 
 **[⬆ Back to Index](#index)**
-### Text
+### Text Generation & Copywriting
 Website | Description | Pricing | 
 |---|---|---|
 | [Copy.ai](https://www.copy.ai/) | Generate High-Converting Marketing Copy In Seconds | Freemium | 
@@ -102,7 +102,7 @@ Website | Description | Pricing |
         
 
 **[⬆ Back to Index](#index)**
-### Video
+### Video Editing & Generation
 Website | Description | Pricing | 
 |---|---|---|
 | [Fliki](https://fliki.ai/) |  Turn text into videos with AI voices. | Freemium | 
