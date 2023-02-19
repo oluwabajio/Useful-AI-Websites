@@ -24,7 +24,7 @@
 * [Logo](#logo)
 * [Music Manipulation](#music-manipuation)
 * [Personal Assistant](#personal-assistant)
-* [Text](#text)
+* [Text Generation & Copywriting](#text)
     <br />
 
 **[⬆ Back to Index](#index)**
