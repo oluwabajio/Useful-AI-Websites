@@ -17,6 +17,7 @@
 * [Image Manipulation](#image-manipuation)
 * [Logo](#logo)
 * [Music Manipulation](#music-manipuation)
+* [Name Generators](#name)
 * [Personal Assistant](#personal-assistant)
 * [Text Generation & Copywriting](#text)
 * [Video Editing & Generation](#video)
@@ -62,6 +63,16 @@ Website | Description | Pricing |
 | [AiVocalRemover](https://aivocalremover.com/) | Remove Vocals from Songs, Extract Instrumentals for Karaoke! | Free | 
 | [Msvep](https://mvsep.com/) | Online music/voice separator based on neural nets | Free |
 | [Vocalremover.org](https://vocalremover.org) | Vocal Remover and Isolation | Free |
+
+  
+
+**[⬆ Back to Index](#index)**
+### Name Generators
+Website | Description | Pricing | 
+|---|---|---|
+| [Namelix](https://namelix.com/) | Business Neme generator: generates short, branded names that are relevant to your business idea. | Free | 
+| [Looka](https://looka.com/) | Generate brand name ideas, check domain and social media availability | Free |
+| [Durable](https://durable.co/name-generator) | AI business name generator | Free |
 
         
 
