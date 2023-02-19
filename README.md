@@ -19,6 +19,7 @@
 <br />
 
 ## Index    
+* [Code Generation](#code-generation)
 * [Image Manipulation](#image-manipuation)
 * [Logo](#logo)
 * [Music Manipulation](#music-manipuation)
@@ -26,6 +27,19 @@
 * [Text Generation & Copywriting](#text)
 * [Video Editing & Generation](#video)
     <br />
+
+
+**[⬆ Back to Index](#index)**
+### Code Generation
+API | Description | Pricing |
+|---|---|---|
+| [Github Copilot](https://github.com/features/copilot) | GitHub Copilot suggest code and entire functions in real-time, right from your editor. | Freemium |
+| [Replit](https://replit.com/) | Run code live in your browser. Write and run code in 50+ languages online with Replit | Freemium |
+| [Tabnine](https://www.tabnine.com/) | AI assistant for software developers | Freemium |
+| [Mintlify](https://mintlify.com/) | Write beautiful documentation that converts users | Freemium |
+| [Stenography](https://stenography.dev/) | A smart codebase documenter combining AI & code parsing. | Freemium |
+| [Debuild](https://debuild.app/) | AI-powered low-code tool that helps you build web apps blazingly fast. | Free |
+
 
 **[⬆ Back to Index](#index)**
 ### Image Manipulation
@@ -44,7 +58,7 @@ API | Description | Pricing |
 ### Logo
 API | Description | Pricing |
 |---|---|---|
-
+| [SmashingLogo](https://smashinglogo.com/en/) | The logo maker for your business and the easiest way to create your logo online.  | Free |
   
 
 **[⬆ Back to Index](#index)**
