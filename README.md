@@ -72,6 +72,10 @@ API | Description | Pricing |
 | [Jasper ai](https://www.jasper.ai/) | Generate High Quality Copy For Emails, Ads, Websites, Listings, Blogs. | Freemium | 
 | [Anyword](https://anyword.com/) | AI Copywriting, AI Writing Assistant & Text Generator | Freemium | 
 | [Copysmith.ai](https://copysmith.ai/) | Write All Your Marketing Copy In Seconds | Freemium | 
+| [Smartwriter.ai](https://www.smartwriter.ai/) | Generate 1000s of Personalised Emails | Freemium | 
+| [Wordtune](https://www.wordtune.com/) | Improve Your Writing Skills. | Freemium | 
+| [Compose.ai](https://www.compose.ai/) | Automate Your Writing | Freemium | 
+| [Rytr](https://rytr.me/) |  Ai Writing Assistant That Helps You Create High-quality Content | Freemium | 
 
 
 
