@@ -24,6 +24,7 @@
 * [Logo](#logo)
 * [Music Manipulation](#music-manipuation)
 * [Personal Assistant](#personal-assistant)
+* [Text](#text)
     <br />
 
 **[⬆ Back to Index](#index)**
@@ -58,6 +59,19 @@ API | Description | Pricing |
 API | Description | Pricing | 
 |---|---|---|
 | [ChatGpt](https://chat.openai.com/chat) | ChatGPT is a transformer-based neural network that provides answers and data with human writing patterns | Free | 
+
+
+
+        
+
+**[⬆ Back to Index](#index)**
+### Text
+API | Description | Pricing | 
+|---|---|---|
+| [Copy.ai](https://www.copy.ai/) | Generate High-Converting Marketing Copy In Seconds | Freemium | 
+| [Jasper ai](https://www.jasper.ai/) | Generate High Quality Copy For Emails, Ads, Websites, Listings, Blogs. | Freemium | 
+| [Anyword](https://anyword.com/) | AI Copywriting, AI Writing Assistant & Text Generator | Freemium | 
+| [Copysmith.ai](https://copysmith.ai/) | Write All Your Marketing Copy In Seconds | Freemium | 
 
 
 
