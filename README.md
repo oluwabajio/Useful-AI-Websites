@@ -14,7 +14,7 @@
 
 ## Index    
 * [Code Generation](#code-generation)
-* [Image Manipulation](#image-manipulation)
+* [Image Generation](#image-generation--manipulation)
 * [Logo](#logo)
 * [Music Manipulation](#music-manipulation)
 * [Name Generators](#name-generators)
@@ -37,9 +37,10 @@ Website | Description | Pricing |
 
 
 **[⬆ Back to Index](#index)**
-### Image Manipulation
+### Image Generation & Manipulation
 Website | Description | Pricing |
 |---|---|---|
+| [Picfinder ai](https://picfinder.ai/) | AI-powered image generation tool that allows users to generate an infinite number of images based on a query. | Free |
 | [Scribble Diffusion](https://scribblediffusion.com/) | Turn your rough sketch into a refined image using AI | Free |
 | [Stability ai (Stable Diffusion) ](https://stability.ai/) | Generate detailed images based on text descriptions | Free |
 | [Craiyon](https://www.craiyon.com/) | AI Image Generator that draws images from text prompts | Free |
