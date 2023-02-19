@@ -8,12 +8,6 @@
 
 
 
-<br />
-
-
-
-<br />
-
 ---
 
 <br />
@@ -31,7 +25,7 @@
 
 **[⬆ Back to Index](#index)**
 ### Code Generation
-API | Description | Pricing |
+Website | Description | Pricing |
 |---|---|---|
 | [Github Copilot](https://github.com/features/copilot) | GitHub Copilot suggest code and entire functions in real-time, right from your editor. | Freemium |
 | [Replit](https://replit.com/) | Run code live in your browser. Write and run code in 50+ languages online with Replit | Freemium |
@@ -43,7 +37,7 @@ API | Description | Pricing |
 
 **[⬆ Back to Index](#index)**
 ### Image Manipulation
-API | Description | Pricing |
+Website | Description | Pricing |
 |---|---|---|
 | [Scribble Diffusion](https://scribblediffusion.com/) | Turn your rough sketch into a refined image using AI | Free |
 | [Stability ai (Stable Diffusion) ](https://stability.ai/) | Generate detailed images based on text descriptions | Free |
@@ -56,14 +50,14 @@ API | Description | Pricing |
     
 **[⬆ Back to Index](#index)**
 ### Logo
-API | Description | Pricing |
+Website | Description | Pricing |
 |---|---|---|
 | [SmashingLogo](https://smashinglogo.com/en/) | The logo maker for your business and the easiest way to create your logo online.  | Free |
   
 
 **[⬆ Back to Index](#index)**
 ### Music Manipulation
-API | Description | Pricing | 
+Website | Description | Pricing | 
 |---|---|---|
 | [AiVocalRemover](https://aivocalremover.com/) | Remove Vocals from Songs, Extract Instrumentals for Karaoke! | Free | 
 | [Msvep](https://mvsep.com/) | Online music/voice separator based on neural nets | Free |
@@ -73,7 +67,7 @@ API | Description | Pricing |
 
 **[⬆ Back to Index](#index)**
 ### Personal Assistant
-API | Description | Pricing | 
+Website | Description | Pricing | 
 |---|---|---|
 | [ChatGpt](https://chat.openai.com/chat) | ChatGPT is a transformer-based neural network that provides answers and data with human writing patterns | Free | 
 
@@ -83,7 +77,7 @@ API | Description | Pricing |
 
 **[⬆ Back to Index](#index)**
 ### Text
-API | Description | Pricing | 
+Website | Description | Pricing | 
 |---|---|---|
 | [Copy.ai](https://www.copy.ai/) | Generate High-Converting Marketing Copy In Seconds | Freemium | 
 | [Jasper ai](https://www.jasper.ai/) | Generate High Quality Copy For Emails, Ads, Websites, Listings, Blogs. | Freemium | 
@@ -98,7 +92,7 @@ API | Description | Pricing |
 
 **[⬆ Back to Index](#index)**
 ### Video
-API | Description | Pricing | 
+Website | Description | Pricing | 
 |---|---|---|
 | [Tavus](https://www.tavus.io/) | The Most Advanced AI Video Personalization Platform | Premium | 
 | [Synthesia](https://www.synthesia.io/) | Create videos from plain text in minutes. | Freemium | 
