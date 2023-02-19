@@ -19,7 +19,7 @@
 * [Music Manipulation](#music-manipuation)
 * [Name Generators](#name-generators)
 * [Personal Assistant](#personal-assistant)
-* [Text Generation & Copywriting](#text)
+* [Text Generation & Copywriting](#text-generation--copywriting)
 * [Video Editing & Generation](#video-editing--Generation)
     <br />
 
