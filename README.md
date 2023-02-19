@@ -16,7 +16,7 @@
 * [Code Generation](#code-generation)
 * [Image Manipulation](#image-manipulation)
 * [Logo](#logo)
-* [Music Manipulation](#music-manipuation)
+* [Music Manipulation](#music-manipulation)
 * [Name Generators](#name-generators)
 * [Personal Assistant](#personal-assistant)
 * [Text Generation & Copywriting](#text-generation--copywriting)
