@@ -64,6 +64,7 @@ Website | Description | Pricing |
 | [AiVocalRemover](https://aivocalremover.com/) | Remove Vocals from Songs, Extract Instrumentals for Karaoke! | Free | 
 | [Msvep](https://mvsep.com/) | Online music/voice separator based on neural nets | Free |
 | [Vocalremover.org](https://vocalremover.org) | Vocal Remover and Isolation | Free |
+| [Vocal Separator](https://vocalseparator.com/) | Online vocal/instrumental and four-stem separation with WAV downloads and an anonymous daily free allowance | Freemium |
 
   
 
