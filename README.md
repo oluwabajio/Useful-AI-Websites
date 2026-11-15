@@ -82,6 +82,7 @@ Website | Description | Pricing |
 Website | Description | Pricing | 
 |---|---|---|
 | [ChatGpt](https://chat.openai.com/chat) | ChatGPT is a transformer-based neural network that provides answers and data with human writing patterns | Free | 
+| [No Stairs Please MCP](https://nostairsplease.com/mcp) | Remote MCP server for searching 22,500+ live music venues across the US and Canada with booking contacts and load-in details | Free | 
 
 
 
